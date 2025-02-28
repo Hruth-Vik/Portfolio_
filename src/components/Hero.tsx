@@ -26,7 +26,8 @@ const Hero = () => {
                 Contact Me
               </a>
               <a 
-                href="#" 
+                href="/Hruthvik.pdf"
+                download="Hruthvik_Naik_Resume.pdf"
                 className="px-6 py-3 border-2 border-indigo-600 text-indigo-600 rounded-md hover:bg-indigo-50 transition-colors flex items-center gap-2"
               >
                 <Download className="h-5 w-5" />
